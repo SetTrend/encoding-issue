@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "allowJs": true,
+        "checkJs": true,
+        "downlevelIteration": true,
+        "emitBOM": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "module": "ESNext",
+        "noEmitOnError": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "strict": true,
+        "target": "es5",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "moduleResolution": "node"
+    },
+    "include": [
+        "./src/"
+    ]
+}

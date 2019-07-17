@@ -1,0 +1,32 @@
+body
+{
+	padding: 3vw;
+	background-color: #202121;
+	color: aliceblue;
+	font: 12pt Calibri,Arial,Helvetica,sans-serif;
+}
+
+table
+{
+	border: 2px dotted gray;
+	padding: 1em;
+}
+
+table > caption
+{
+	padding: 1ex;
+	font-variant: small-caps;
+	font-size: 120%;
+	letter-spacing: .4ex;
+}
+
+table > tbody > tr > th
+{
+	color: gray;
+}
+
+table > tbody > tr > th,
+table > tbody > tr > td
+{
+	padding: .5ex 1em;
+}
