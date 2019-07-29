@@ -21,7 +21,7 @@ export default class TestUC extends HTMLElement
 				<tr>
 					<td>Gärtner</td>
 					<td>G\xe4rtner</td>
-					<td>G&aumlrtner</td>
+					<td>G&auml;rtner</td>
 				</tr>
 				<tr>
 					<td>müßig</td>
